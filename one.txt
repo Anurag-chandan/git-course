@@ -2,3 +2,5 @@ After first push useing'git push orgin main' ,we push a folder/repo three to git
 To have every push 'git push' ,we had to use 'git push -u origin main' and after this we use 'git push' every times.
 
 Before push first add->commit then push.
+
+Write beautiful readme.md file.
